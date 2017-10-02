@@ -1,7 +1,7 @@
 // @flow
 'use strict'
 
-const urls = (version:number = 17) => {
+const urls = (version:number = 18) => {
   return {
     referer: `https://www.easports.com/iframe/fut${version}/?baseShowoffUrl=https%3A%2F%2Fwww.easports.com%2Fde%2Ffifa%2Fultimate-team%2Fweb-app%2Fshow-off&guest_app_uri=http%3A%2F%2Fwww.easports.com%2Fde%2Ffifa%2Fultimate-team%2Fweb-app&locale=en_US`,
     login: {
